@@ -10,7 +10,7 @@ Enjoy and feel free to contact me with any doubts!
    * Data Cleaning
    * Dimensionality Reduction
       * [PCA](https://github.com/nilbsongalindo/MachineLearning/blob/master/PCA.ipynb)
-      * LDA
+      * [LDA](https://github.com/nilbsongalindo/MachineLearning/blob/master/LDA.ipynb)
 
 * Machine Learning Algorithms
 
