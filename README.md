@@ -9,6 +9,8 @@ Enjoy and feel free to contact me with any doubts!
 * Data preprocessing
    * Data Cleaning
    * Dimensionality Reduction
+      * [PCA](https://github.com/nilbsongalindo/MachineLearning/blob/master/PCA.ipynb)
+      * LDA
 
 * Machine Learning Algorithms
 
