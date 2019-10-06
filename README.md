@@ -16,7 +16,7 @@ Enjoy and feel free to contact me with any doubts!
     | Classification | Regression |
     | --- | --- |
     | Naive Bayes | Linear Regression |
-    | SVM | Random Forest |
+    | [SVM](https://github.com/nilbsongalindo/MachineLearning/blob/master/SVM.ipynb) | Random Forest |
     | KNN | Polynomial Regression |
     | Random Forest| SVR |
     | Decision Tree| Neural Network |
