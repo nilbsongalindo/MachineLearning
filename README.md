@@ -27,7 +27,7 @@ Enjoy and feel free to contact me with any doubts!
       | Clustering |
       | --- |
       | Hierarchical Clustering |
-      | K Means | 
+      | [K Means](https://github.com/nilbsongalindo/MachineLearning/blob/master/K%20Means%20.ipynb) | 
     
  * Reinforcement Learning
     * Upper Confidence Bound (UCB)
