@@ -17,7 +17,7 @@ Enjoy and feel free to contact me with any doubts!
     | --- | --- |
     | [Naive Bayes](https://github.com/nilbsongalindo/MachineLearning/blob/master/Naive%20Bayes.ipynb) | Linear Regression |
     | [SVM](https://github.com/nilbsongalindo/MachineLearning/blob/master/SVM.ipynb) | Random Forest |
-    | KNN | Polynomial Regression |
+    | [KNN](https://github.com/nilbsongalindo/MachineLearning/blob/master/KNN.ipynb) | Polynomial Regression |
     | Random Forest| SVR |
     | Decision Tree| Neural Network |
     | Convolutional Neural Network| Decision Tree |
