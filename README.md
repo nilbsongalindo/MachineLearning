@@ -26,7 +26,7 @@ Enjoy and feel free to contact me with any doubts!
    
       | Clustering |
       | --- |
-      | Hierarchical Clustering |
+      | [Hierarchical Clustering](https://github.com/nilbsongalindo/MachineLearning/blob/master/Hierarchical%20Clustering.ipynb) |
       | [K Means](https://github.com/nilbsongalindo/MachineLearning/blob/master/K%20Means%20.ipynb) | 
     
  * Reinforcement Learning
