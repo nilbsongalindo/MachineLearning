@@ -19,7 +19,7 @@ Enjoy and feel free to contact me with any doubts!
     | [SVM](https://github.com/nilbsongalindo/MachineLearning/blob/master/SVM.ipynb) | Random Forest |
     | [KNN](https://github.com/nilbsongalindo/MachineLearning/blob/master/KNN.ipynb) | Polynomial Regression |
     | [Random Forest](https://github.com/nilbsongalindo/MachineLearning/blob/master/Random%20Forest.ipynb)| SVR |
-    | Decision Tree| Neural Network |
+    | [Neural Network](https://github.com/nilbsongalindo/MachineLearning/blob/master/Neural%20Networks%20with%20Keras.ipynb)| Neural Network |
     | Convolutional Neural Network| Decision Tree |
     
   * Unsupervised Learning
