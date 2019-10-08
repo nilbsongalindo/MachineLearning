@@ -37,4 +37,11 @@ Enjoy and feel free to contact me with any doubts!
     * Apriori
     * Eclat
  
- * Pytorch
+ * Deep Learning Libraries
+   
+    | Pytorch | TensorFlow|
+    | --- | --- |
+    | soon| soon |
+   
+ 
+  
