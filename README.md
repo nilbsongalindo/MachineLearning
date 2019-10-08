@@ -37,4 +37,4 @@ Enjoy and feel free to contact me with any doubts!
     * Apriori
     * Eclat
  
- 
+ * Pytorch
