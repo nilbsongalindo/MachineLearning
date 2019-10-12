@@ -41,7 +41,7 @@ Enjoy and feel free to contact me with any doubts!
    
     | Pytorch | TensorFlow|
     | --- | --- |
-    | soon| soon |
+    | [MNIST LeNet](https://github.com/nilbsongalindo/MachineLearning/blob/master/MNIST%20LeNet.ipynb)| soon |
    
  
   
