@@ -45,4 +45,5 @@ Enjoy and feel free to contact me with any doubts!
    
  
   * Implementations (No frameworks)
+   
    [ANN with Numpy (practice from "Manual Pratico do DeepLearning Course" on Udemy](https://github.com/nilbsongalindo/MachineLearning/blob/master/ANN%20with%20Numpy.ipynb)
