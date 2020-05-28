@@ -44,4 +44,5 @@ Enjoy and feel free to contact me with any doubts!
     | [MNIST LeNet](https://github.com/nilbsongalindo/MachineLearning/blob/master/MNIST%20LeNet.ipynb)| soon |
    
  
-  
+  * Implementations (No frameworks)
+   [ANN with Numpy (practice from "Manual Pratico do DeepLearning Course" on Udemy](https://github.com/nilbsongalindo/MachineLearning/blob/master/ANN%20with%20Numpy.ipynb)
