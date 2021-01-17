@@ -42,6 +42,7 @@ Enjoy and feel free to contact me with any doubts!
     | Pytorch | TensorFlow|
     | --- | --- |
     | [MNIST LeNet](https://github.com/nilbsongalindo/MachineLearning/blob/master/MNIST%20LeNet.ipynb)| soon |
+    | [Cifar10 classifier](https://github.com/nilbsongalindo/MachineLearning/blob/master/Ann-Cifar10.ipynb)| soon |
    
  
   * Implementations (No frameworks)
